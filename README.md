@@ -7,7 +7,7 @@
 - 👯 I'm looking to collaborate on **open source project**
 - 💬 Ask me about **web development**
 - 📫 How to reach me **mammadrezaa.021@gmail.com**
-- 📄 Know about my experiences **[رزومه](https://docs.google.com/document/d/16xM-fa_GUUAzPdNuJMJ-vLuhx-OfntOW7k8v8JZPj2Q/edit?usp=drive_link)**
+- 📄 Know about my experiences **[resume](https://docs.google.com/document/d/16xM-fa_GUUAzPdNuJMJ-vLuhx-OfntOW7k8v8JZPj2Q/edit?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,9 +16,6 @@
 </a>
 <a href="https://linkedin.com/in/mohammadreza-sharafi-ab823b2b5" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://fb.com/mohammadreza sharafi" target="blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
 </a>
 <a href="https://instagram.com/mammadr2za" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
